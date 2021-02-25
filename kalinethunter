@@ -23,7 +23,7 @@ post_cleanup() {
 # Utility function for Unknown Arch
 
 #####################
-#    Decide Chroot  #
+#    Dark Hacker    #
 #####################
 
 setchroot() {
